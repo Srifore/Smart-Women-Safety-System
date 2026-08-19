@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\drawable_bg_chip_dark.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\drawable\\bg_chip_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\drawable_bg_icon_circle.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\drawable\\bg_icon_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\drawable_bg_avatar_teal.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\drawable\\bg_avatar_teal.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\drawable_bg_avatar_circle.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\drawable\\bg_avatar_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\drawable_bg_alert_pill.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\drawable\\bg_alert_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\drawable_bg_pill_pink.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\drawable\\bg_pill_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\drawable_bg_dashboard.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\drawable\\bg_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\drawable_bg_status_available.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\drawable\\bg_status_available.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\drawable_bg_search_button.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\drawable\\bg_search_button.xml"
+    },
+    {
+        "merged": "com.voicesafety.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.voicesafety.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\drawable_bg_status_badge_disconnected.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\drawable\\bg_status_badge_disconnected.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-debug-35:\\drawable_bg_chip_light.xml.flat",
+        "source": "C:\\Users\\NITHIN\\.gradle\\daemon\\9.3.0\\com.voicesafety.app-main-37:\\drawable\\bg_chip_light.xml"
+    }
+]

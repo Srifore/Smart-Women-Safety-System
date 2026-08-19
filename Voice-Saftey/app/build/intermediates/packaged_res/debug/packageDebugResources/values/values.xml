@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_stroke">#223447</color>
+    <color name="card_warm">#102031</color>
+    <color name="chip_light">#1A2B3D</color>
+    <color name="danger">#FF5E67</color>
+    <color name="dark">#050B12</color>
+    <color name="dark_card">#0E1C2B</color>
+    <color name="dark_muted">#96A8BC</color>
+    <color name="dark_stroke">#24374A</color>
+    <color name="dark_text">#F7FBFF</color>
+    <color name="ink">#F7FBFF</color>
+    <color name="muted_text">#92A1B8</color>
+    <color name="pink">#FF5B92</color>
+    <color name="sand">#F5E7C8</color>
+    <color name="signal_red">#FF6370</color>
+    <color name="signal_teal">#20D0C0</color>
+    <color name="sos_circle">#2A3447</color>
+    <color name="surface_bg">#071521</color>
+    <color name="white">#FFFFFF</color>
+    <style name="Theme.VoiceSafety" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:statusBarColor">@color/dark</item>
+        <item name="android:navigationBarColor">@color/dark</item>
+        <item name="colorPrimary">@color/signal_teal</item>
+        <item name="colorSecondary">@color/pink</item>
+        <item name="colorSurface">@color/dark_card</item>
+        <item name="android:windowBackground">@color/surface_bg</item>
+    </style>
+</resources>
